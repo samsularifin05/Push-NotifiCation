@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18408835012",
+    "firebase_url": "https://hidupretail-9fcf0.firebaseio.com",
+    "project_id": "hidupretail-9fcf0",
+    "storage_bucket": "hidupretail-9fcf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18408835012:android:f4df643c8859a70a728691",
+        "android_client_info": {
+          "package_name": "com.example.hidup_retail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18408835012-4q4vg4gen6n17cgeskhhrio4u1f4ikff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMe5YNWHxXV6Bg51Gawdn318fQY8qEPD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18408835012-4q4vg4gen6n17cgeskhhrio4u1f4ikff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
